@@ -1,0 +1,32 @@
+
+
+.start {
+    padding: 10px 20px;
+    background-color: #0a8efa;
+    color: #000;
+    border: 1px solid #c5c5c5;
+    border-radius: 30px;
+    box-shadow: 0 0 5px #c5c5c5;
+    font-size: 20px;
+    font-weight: 700;
+}
+.pause {
+    padding: 10px 20px;
+    background-color: #00ff15;
+    color: #000;
+    border: 1px solid #c5c5c5;
+    border-radius: 30px;
+    box-shadow: 0 0 5px #c5c5c5;
+    font-size: 20px;
+    font-weight: 700;
+}
+.reset {
+    padding: 10px 20px;
+    background-color: #f70505;
+    color: #000;
+    border: 1px solid #c5c5c5;
+    border-radius: 30px;
+    box-shadow: 0 0 5px #c5c5c5;
+    font-size: 20px;
+    font-weight: 700;
+}
